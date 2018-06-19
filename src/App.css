@@ -1,5 +1,19 @@
 .App {
   text-align: center;
+  background-color: gray;
+  height: 100vh;
+  color: black;
+}
+.listBorder {
+  border: black solid 2px;
+  box-shadow: black 2px 2px 2px;
+  background-color: rgba(223, 223, 223, 0.945);
+  width: 20%;
+  margin: 15px auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: 'Permanent Marker', cursive;
+  font-weight: bold;
 }
 
 .App-logo {

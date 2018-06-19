@@ -1,0 +1,9 @@
+.completeButton {
+    background-color: green;
+    border: solid green 1px;
+    box-shadow: rgb(4, 75, 4) 2px 2px 2px;
+    font-weight: bold;
+    color: rgb(2, 54, 0);
+    font-family: 'Permanent Marker', cursive;
+    margin-top: 5px;
+}

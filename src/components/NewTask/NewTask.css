@@ -1,0 +1,13 @@
+.deleteButton {
+    background-color:red;
+    border: 1px solid red;
+    box-shadow: rgb(165, 12, 12) 2px 2px 2px;
+    margin-left: 20px;
+    font-weight: bold;
+    color: rgb(87, 0, 0);
+    font-family: 'Permanent Marker', cursive;
+    margin-top: 5px;
+}
+.dateTime {
+    margin-left: 5px;
+}
